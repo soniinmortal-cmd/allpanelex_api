@@ -1,0 +1,4 @@
+.env
+dbbkp/
+server/uploads/apk/
+node_modules/

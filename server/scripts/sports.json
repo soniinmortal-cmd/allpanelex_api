@@ -1,0 +1,551 @@
+{
+    "success": true,
+    "msg": "Success",
+    "status": 200,
+    "data": [
+        {
+            "eid": 4,
+            "ename": "Cricket",
+            "active": true,
+            "tab": true,
+            "isdefault": true,
+            "oid": 1
+        },
+        {
+            "eid": 1,
+            "ename": "Football",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 2
+        },
+        {
+            "eid": 2,
+            "ename": "Tennis",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 3
+        },
+        {
+            "eid": 8,
+            "ename": "Table Tennis",
+            "active": false,
+            "tab": true,
+            "isdefault": false,
+            "oid": 4
+        },
+        {
+            "eid": 68,
+            "ename": "Esoccer",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 5
+        },
+        {
+            "eid": 7,
+            "ename": "Horse Racing",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 6
+        },
+        {
+            "eid": 4339,
+            "ename": "Greyhound Racing",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 7
+        },
+        {
+            "eid": 15,
+            "ename": "Basketball",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 8
+        },
+        {
+            "eid": 69,
+            "ename": "Wrestling",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 9
+        },
+        {
+            "eid": 18,
+            "ename": "Volleyball",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 10
+        },
+        {
+            "eid": 22,
+            "ename": "Badminton",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 11
+        },
+        {
+            "eid": 59,
+            "ename": "Snooker",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 12
+        },
+        {
+            "eid": 57,
+            "ename": "Darts",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 13
+        },
+        {
+            "eid": 6,
+            "ename": "Boxing",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 14
+        },
+        {
+            "eid": 3,
+            "ename": "Mixed Martial Arts",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 15
+        },
+        {
+            "eid": 58,
+            "ename": "American Football",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 16
+        },
+        {
+            "eid": 11,
+            "ename": "E Games",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 17
+        },
+        {
+            "eid": 19,
+            "ename": "Ice Hockey",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 18
+        },
+        {
+            "eid": 9,
+            "ename": "Futsal",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 19
+        },
+        {
+            "eid": 40,
+            "ename": "Politics",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 20
+        },
+        {
+            "eid": 67,
+            "ename": "Boat Racing",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 21
+        },
+        {
+            "eid": 52,
+            "ename": "Motor Sports",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 22
+        },
+        {
+            "eid": 12,
+            "ename": "Greyhounds",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 23
+        },
+        {
+            "eid": 66,
+            "ename": "Kabaddi",
+            "active": true,
+            "tab": true,
+            "isdefault": false,
+            "oid": 24
+        },
+        {
+            "eid": 5,
+            "ename": "Golf",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 25
+        },
+        {
+            "eid": 55,
+            "ename": "Rugby League",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 26
+        },
+        {
+            "eid": 13,
+            "ename": "Trotting",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 28
+        },
+        {
+            "eid": 39,
+            "ename": "Handball",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 29
+        },
+        {
+            "eid": 14,
+            "ename": "Speedway",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 30
+        },
+        {
+            "eid": 16,
+            "ename": "MotoGP",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 31
+        },
+        {
+            "eid": 17,
+            "ename": "Chess",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 32
+        },
+        {
+            "eid": 20,
+            "ename": "Equine Sports",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 33
+        },
+        {
+            "eid": 21,
+            "ename": "Australian Rules",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 34
+        },
+        {
+            "eid": 23,
+            "ename": "Formula 1",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 35
+        },
+        {
+            "eid": 24,
+            "ename": "Nascar",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 36
+        },
+        {
+            "eid": 25,
+            "ename": "Hockey",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 37
+        },
+        {
+            "eid": 26,
+            "ename": "Supercars",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 38
+        },
+        {
+            "eid": 27,
+            "ename": "Netball",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 39
+        },
+        {
+            "eid": 28,
+            "ename": "Surfing",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 40
+        },
+        {
+            "eid": 29,
+            "ename": "Cycling",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 41
+        },
+        {
+            "eid": 30,
+            "ename": "Gaelic Sports",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 42
+        },
+        {
+            "eid": 31,
+            "ename": "Biathlon",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 43
+        },
+        {
+            "eid": 32,
+            "ename": "Motorbikes",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 44
+        },
+        {
+            "eid": 33,
+            "ename": "Athletics",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 45
+        },
+        {
+            "eid": 34,
+            "ename": "Squash",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 46
+        },
+        {
+            "eid": 35,
+            "ename": "Basketball 3X3",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 47
+        },
+        {
+            "eid": 36,
+            "ename": "Floorball",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 48
+        },
+        {
+            "eid": 37,
+            "ename": "Sumo",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 49
+        },
+        {
+            "eid": 38,
+            "ename": "Virtual sports",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 50
+        },
+        {
+            "eid": 41,
+            "ename": "Weather",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 51
+        },
+        {
+            "eid": 42,
+            "ename": "TV-Games",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 52
+        },
+        {
+            "eid": 43,
+            "ename": "Lottery",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 53
+        },
+        {
+            "eid": 44,
+            "ename": "Bowls",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 54
+        },
+        {
+            "eid": 45,
+            "ename": "Poker",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 55
+        },
+        {
+            "eid": 46,
+            "ename": "Waterpolo",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 56
+        },
+        {
+            "eid": 47,
+            "ename": "Alpine Skiing",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 57
+        },
+        {
+            "eid": 48,
+            "ename": "Sailing",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 58
+        },
+        {
+            "eid": 49,
+            "ename": "Hurling",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 59
+        },
+        {
+            "eid": 50,
+            "ename": "Ski Jumping",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 60
+        },
+        {
+            "eid": 51,
+            "ename": "Bandy",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 61
+        },
+        {
+            "eid": 53,
+            "ename": "Baseball",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 62
+        },
+        {
+            "eid": 54,
+            "ename": "Rugby Union",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 63
+        },
+        {
+            "eid": 56,
+            "ename": "Curling",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 64
+        },
+        {
+            "eid": 60,
+            "ename": "Gaelic Games",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 65
+        },
+        {
+            "eid": 61,
+            "ename": "Lottery Specials",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 66
+        },
+        {
+            "eid": 62,
+            "ename": "Soccer",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 67
+        },
+        {
+            "eid": 63,
+            "ename": "Special Bets",
+            "active": false,
+            "tab": false,
+            "isdefault": false,
+            "oid": 68
+        },
+        {
+            "eid": 64,
+            "ename": "Esports",
+            "active": true,
+            "tab": false,
+            "isdefault": false,
+            "oid": 69
+        }
+    ]
+}
